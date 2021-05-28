@@ -1,43 +1,4 @@
-/* HEADER */
-.banner{
+.imagem-banner{
     width: 100%;
-}
-.titulo-principal{
-    position: absolute;
-    top: 30%;
-    color: white;
-    font-size: 60px;
-    padding-left: 5%;
-}
-/* TABLE */
-.tabela{
-    margin: 30px 30px 30px 80px;
-}
-table {
-    margin: 20px 0 40px
-}
-thead {
-    background: gray;
-    color: white;
-    font-weight: bold;
-    padding: 10px;
-}
-td, th {
-    border: 1px solid black;
-    padding: 10px;
-}
-/* FOOTER */
-.footer{
-    background: url("footer.png");
-    padding: 80px 0;
-}
-.emerson{
-    font-size: 28px;
-    color: white;
-    text-align: center;
-}
-.interior{
-    font-size: 24px;
-    color: white;
-    text-align: center;
+    height: auto;
 }
